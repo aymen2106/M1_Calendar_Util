@@ -25,8 +25,8 @@
         Description             	  Status
           
       1) Main Menu                 Implemented
-      2) Data Saving            	 Implemented
-      3) Date Finding         	  Implemented
+      2) Data Saving            	Implemented
+      3) Date Finding         	 Implemented
 
 
 
