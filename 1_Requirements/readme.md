@@ -15,11 +15,13 @@
 * THREATS :: lot of competitors other better applications available with advanced features.
 
 ## 4W's and 1H
-* Who? anyone with an electronic device with a display and has a requirement of a canlendar for dates.
-* What? a calendar with features like view date, month, year, event.
-* When? it can be used when there is no access to physical calendar and has event dates to store.
-* Where? it can be used in all sectors irrespective of their field of work.
-* How? this application was developed in C language to avoid hassle of maintaining bulky diaries.
+* Who? Anyone with an electronic device with a display and has a requirement of a canlendar for dates.
+* What? A calendar project with features like view date, month, year, event.
+* When? It can be used when there is no access to physical calendar and has event dates to store.
+* Where? It can be used in all sectors irrespective of their field of work.
+* How? This application was developed in C language to access the calendar.
+
+
 
 
 
