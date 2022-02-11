@@ -30,10 +30,10 @@
       
 ##  Low Level Requirements
 ```
-*              Description                                                                                   Status                                                          
-*1) New calendar should give the day-name for entered date.	                	                               Implemented
-*2) Should display the complete month calendar which is entered by user.	                                   Implemented
-*3)Should be able to add notes                                       	                                       Implemented
+        Description                                                                                   Status                                                          
+1) New calendar should give the day-name for entered date.	                	                          Implemented
+2) Should display the complete month calendar which is entered by user.                               Implemented
+3)Should be able to add notes                                       	                                 Implemented
 ```
 
   
