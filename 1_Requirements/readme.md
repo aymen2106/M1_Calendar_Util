@@ -22,11 +22,11 @@
 * How? This application was developed in C language to access the calendar.
 
  ##  High Level Requirements
-        Description             	Status
+        Description             	  Status
           
-      1) Main Menu                Implemented
-      2) Data Storing            	Implemented
-      3) Data Retrieval         	Implemented
+      1) Main Menu                 Implemented
+      2) Data Storing            	 Implemented
+      3) Data Retrieval         	  Implemented
 
 
 
