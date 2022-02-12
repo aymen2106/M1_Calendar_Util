@@ -11,7 +11,7 @@
 |--------|-------------|---------|---------|
 |L_01|Check if Day is displayed for entered date|Enter date (dd mm yyyy)|DAY|
 |L_02|Check if calendar is displayed for entered month|Enter month (mm yyyy)|Full month calendar|
-|L_01|Check if Note is saved for entered date|Enter NOTE|Note is saved|
+|L_03|Check if Note is saved for entered date|Enter NOTE|Note is saved|
 
 ## Best Practices
 * High level Test plans are shown
