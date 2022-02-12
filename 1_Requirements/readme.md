@@ -36,6 +36,10 @@
 3)Should be able to add notes                                       	                                 Implemented
 ```
 
+# Best method followed
+* Used functions to decrease dependency on main function
+* Created header file so that the fuctions can be used
+
   
 
 
