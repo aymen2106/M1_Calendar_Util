@@ -26,14 +26,14 @@
           
       1) Main Menu                  Implemented
       2) Data Saving             	Implemented
-      3) Date Finding         	 Implemented
+      3) Date Finding         	Implemented
       
 ##  Low Level Requirements
 ```
-        Description                                                                                   Status                                                          
-1) New calendar should give the day-name for entered date.	                                           Implemented
+        Description                                                                                    Status                                                          
+1) New calendar should give the day-name for entered date.	                                      Implemented
 2) Should display the complete month calendar which is entered by user.                               Implemented
-3)Should be able to add notes                                       	                                 Implemented
+3)Should be able to add notes                                       	                              Implemented
 ```
 
 # Best method followed
